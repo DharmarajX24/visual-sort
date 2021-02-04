@@ -1,0 +1,43 @@
+/* Dimensions */
+
+.x-w-100 {
+    width: 100% !important;
+}
+
+.x-h-100 {
+    height: 100% !important;
+}
+
+.x-w-50 {
+    width: 50% !important;
+}
+
+.x-h-50 {
+    height: 50% !important;
+}
+
+#div-sort-area {
+    border: 2px solid #dedede;
+    border-radius: 1rem;
+    padding: 4px;
+    height: 500px !important;
+    align-items: flex-end;
+}
+
+.sort-element {
+    background-color: dodgerblue;
+    margin-left: 1px;
+    margin-right: 1px;
+}
+
+.sort-cur-comp {
+    background-color: black;
+}
+
+.sort-comp-valid {
+    background-color: #42b983;
+}
+
+.sort-comp-invalid {
+    background-color: crimson;
+}
